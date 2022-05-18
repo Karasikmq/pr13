@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8QSZZoEEnH4OuclcmheaRdDz8RVvBAugvqn1K3IdoFsdzDN4uWt+CfWICdTi/FQ3hd1o03orTtOmk3DOsgy9Og==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MSI\\Desktop\\наконец-то\\HelloApp_PR13\\HelloApp_PR13\\HelloApp_PR13.iOS\\HelloApp_PR13.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MSI\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\MSI\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\MSI\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
